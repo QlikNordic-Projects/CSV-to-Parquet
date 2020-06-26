@@ -57,6 +57,6 @@ def convertFile(filename: String) {
   println("Convert " + srcDir + "/" + filename)
 
   if (filename contains "tablename") { // Change Here
-    convert(sqlContext, srcDir + "/" + filename, schemaBusinessUnit, "tablename", "tablename.parquet")
+    convert(sqlContext, srcDir + "/" + filename, schemaTablename, "tablename", "tablename.parquet")
   } 
 }
