@@ -13,7 +13,7 @@ The Scala script is an example how on could select a directory with CSV files an
 
 * **Alexander Jaballah** - *https://github.com/Alexanderjaballah*
 * **Johan Bäcklin** - *https://github.com/j-backlin*
-* **Patrik Elfborg** - **
+* **Patrik Elfborg** - *https://github.com/eponix*
 
 
 ## License
